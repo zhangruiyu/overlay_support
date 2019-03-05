@@ -47,7 +47,7 @@ class _Toast extends StatelessWidget {
         child: Padding(
           padding: const EdgeInsets.all(16),
           child: Align(
-            alignment: Alignment(0, 0.5),
+            alignment: Alignment(0, 0.1),
             child: ClipRRect(
               borderRadius: BorderRadius.circular(10),
               child: Container(
